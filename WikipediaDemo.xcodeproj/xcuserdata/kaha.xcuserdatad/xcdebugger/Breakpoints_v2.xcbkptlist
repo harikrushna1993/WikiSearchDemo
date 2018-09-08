@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WikipediaDemo/Controller/ViewController.swift"
+            timestampString = "558132224.041703"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "updateSearchResults(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WikipediaDemo.ViewController.updateSearchResults(for: __ObjC.UISearchController) -&gt; ()"
+                  moduleName = "WikipediaDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaha/Desktop/WikipediaDemo/WikipediaDemo/WikipediaDemo/Controller/ViewController.swift"
+                  timestampString = "558131125.8342201"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;WikipediaDemo.SearchWikiDataModel&gt;) -&gt; () in WikipediaDemo.ViewController.updateSearchResults(for: __ObjC.UISearchController) -&gt; ()"
+                  moduleName = "WikipediaDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaha/Desktop/WikipediaDemo/WikipediaDemo/WikipediaDemo/Controller/ViewController.swift"
+                  timestampString = "558131125.840665"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
