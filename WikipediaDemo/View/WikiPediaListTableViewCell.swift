@@ -30,6 +30,7 @@ class WikiPediaListTableViewCell: UITableViewCell {
         
         labelTitle.text = data.titleText
         labelDesc.text = data.descriptionText
+        constraintWidthItemImage.constant = 40
         if data.thumbanil.count == 0 {
             constraintWidthItemImage.constant = 0
             return
